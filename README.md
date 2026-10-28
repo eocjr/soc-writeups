@@ -2,7 +2,7 @@
 
 SOC N1 triage notes from TryHackMe labs (blue team / SIEM). Template: alert → evidence → classification → action/escalation.
 
-Author: Edilson Cabral · targeting junior SOC / blue team roles.
+Author: EOCJR · targeting junior SOC / blue team roles.
 
 ---
 
